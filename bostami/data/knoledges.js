@@ -1,0 +1,23 @@
+export const knoledges = [
+  "JavaScript",
+  "Jquery",
+  "React",
+  "Redux State Management",
+  "Next.js",
+  "Framer Motion",
+  "Three.js",
+  "React Native",
+  "Rest APIs",
+  "HTML5",
+  "CSS",
+  "Tailwind CSS",
+  "SASS",
+  "Bootstrap",
+  "Git",
+  "Wordpress",
+  "Shopify",
+  "Drupal CMS",
+  "Salesforce",
+  "Adobe Photoshop",
+  "Adobe XD"
+];
