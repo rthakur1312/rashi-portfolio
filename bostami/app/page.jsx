@@ -1,4 +1,5 @@
 import HeaderFour from "@/components/homes/headers/HeaderFour";
+import AboutThree from "@/components/homes/about/AboutThree";
 import HeaderThree from "@/components/homes/headers/HeaderThree";
 import PersonalInfoThree from "@/components/homes/personalInfo/PersonalInfoThree";
 import ResumeThree from "@/components/homes/resume/ResumeThree";
@@ -16,7 +17,7 @@ export default function page() {
             <PersonalInfoThree />
             <div className="col-xxl-8 col-xl-8 col-lg-8">
               <HeaderThree />
-              <ResumeThree />
+            <AboutThree />
             </div>
           </div>
         </div>
