@@ -45,7 +45,7 @@ export const items = [
     title: "Accessibility",
     description:
       "Implement accessibility best practices to ensure that web content is accessible to users with disabilities, adhering to WCAG guidelines.",
-    bg: "bg-prink",
+    bg: "bg-catkrill",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const items = [
     title: "Agile Development",
     description:
       "Embrace Agile methodologies such as Scrum to facilitate iterative development, rapid prototyping, and continuous improvement cycles.",
-    bg: "bg-prink",
+    bg: "bg-catkrill",
   },
   {
     id: 8,
