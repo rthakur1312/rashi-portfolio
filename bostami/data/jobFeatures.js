@@ -1,22 +1,31 @@
 export const items = [
   {
     id: 1,
+    icon: "/assets/img/React-icon.png",
+    title: "React development",
+    description:
+      "Building user interfaces for web applications using the React JavaScript library, ensuring interactive and efficient frontend experiences",
+    bg: "bg-catkrill",
+  },
+  {
+    id: 2,
     icon: "/assets/img/responsive.png",
     title: "Responsive Development",
     description:
       "Develop responsive web applications and websites that seamlessly adapt to various screen sizes and devices.",
     bg: "bg-prink",
   },
+ 
   {
-    id: 2,
+    id: 3,
     icon: "/assets/img/app-development.svg",
     title: "Cross-Browser Compatibility",
     description:
       "Ensure compatibility across different web browsers to provide a consistent experience for all users.",
-    bg: "bg-catkrill",
+    bg: "bg-prink",
   },
   {
-    id: 3,
+    id: 4,
     icon: "/assets/img/javascript.png",
     title: "Modern Frameworks",
     description:
@@ -24,15 +33,23 @@ export const items = [
     bg: "bg-catkrill",
   },
   {
-    id: 4,
+    id: 5,
     icon: "/assets/img/page-speed.png",
     title: "Performance Optimization",
     description:
       "Optimize website performance through efficient code practices, image optimization, and lazy loading techniques to enhance page load speed.",
+    bg: "bg-catkrill",
+  },
+  {
+    id: 6,
+    icon: "/assets/img/github.jpg",
+    title: "Version Control",
+    description:
+      "Using version control systems like Git to manage and collaborate on frontend codebase with other developers.",
     bg: "bg-prink",
   },
   {
-    id: 5,
+    id: 6,
     icon: "/assets/img/collaboration.png",
     title: "Collaboration",
     description:
@@ -40,7 +57,7 @@ export const items = [
     bg: "bg-prink",
   },
   {
-    id: 6,
+    id: 7,
     icon: "/assets/img/easy-access.png",
     title: "Accessibility",
     description:
@@ -48,7 +65,7 @@ export const items = [
     bg: "bg-catkrill",
   },
   {
-    id: 7,
+    id: 8,
     icon: "/assets/img/scrum.png",
     title: "Agile Development",
     description:
@@ -56,7 +73,7 @@ export const items = [
     bg: "bg-catkrill",
   },
   {
-    id: 8,
+    id: 9,
     icon: "/assets/img/reading-book.png",
     title: "Continuous Learning",
     description:
