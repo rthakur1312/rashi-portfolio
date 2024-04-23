@@ -1,7 +1,7 @@
 export const items = [
   {
     id: 1,
-    icon: "/assets/img/React-icon.png",
+    icon: "/assets/img/react-logo.png",
     title: "React development",
     description:
       "Building user interfaces for web applications using the React JavaScript library, ensuring interactive and efficient frontend experiences",
