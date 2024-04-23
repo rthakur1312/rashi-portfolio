@@ -55,7 +55,7 @@ export default function PersonalInfoThree() {
               <span style={{ color: "#fff" }} className="icon">
                 <i className="fa-regular fa-download"></i>
               </span>
-              Download CV
+              Download Resume
             </a>
           </div>
         </div>
