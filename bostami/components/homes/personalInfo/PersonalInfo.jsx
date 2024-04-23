@@ -55,7 +55,7 @@ export default function PersonalInfo() {
               <span style={{ color: "#fff" }} className="icon">
                 <i className="fa-regular fa-download"></i>
               </span>
-              download cv
+              Download CV
             </a>
           </div>
         </div>
