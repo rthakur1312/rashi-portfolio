@@ -10,8 +10,8 @@ export const experiences = [
     id: 2,
     bgClass: "bg-prink",
     session: "2017-2019",
-    role: "Freelance Web Developer",
-    // company: "ib-themes ltd.",
+    role: "Frontend Developer",
+     company: "CS Soft Solutions (India)",
   },
   // {
   //   id: 3,
