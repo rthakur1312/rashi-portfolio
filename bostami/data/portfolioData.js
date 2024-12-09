@@ -11,7 +11,7 @@ export const portfolioData = [
     project: "Full-Stack Application",
     languages: ["Node.js, React"],
     client: "Envato",
-    previewLink: "#",
+    previewLink: "https://news-app-client-sandy.vercel.app/",
     previewName: "News Summarizer",
     desc: [
       `The News Summary Application is a full-stack project built with a Node.js backend and a React frontend, 
