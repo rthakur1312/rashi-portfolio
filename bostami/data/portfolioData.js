@@ -1,6 +1,27 @@
 export const portfolioData = [
   {
     id: 1,
+    class: "isotop-item design mockup",
+    bgClass: "bg-catkrill",
+    imgSrc: "/assets/img/news-app.png",
+    subtitle: "News Summarizer",
+    title: "News Summarizer",
+    target: "#portfolio-1",
+    category: ["R&D Projects"],
+    project: "Full-Stack Application",
+    languages: ["Node.js, React"],
+    client: "Envato",
+    previewLink: "#",
+    previewName: "News Summarizer",
+    desc: [
+      `The News Summary Application is a full-stack project built with a Node.js backend and a React frontend, 
+      designed to deliver concise and customizable news summaries. This application aggregates news articles, 
+      scrapes relevant content from the article URLs, and leverages OpenAI's API to generate summaries tailored 
+      to user preferences.`,
+    ],
+  },
+  {
+    id: 2,
     class: "isotop-item logo",
     bgClass: "bg-prink",
     imgSrc: "/assets/img/work/bam.png",
@@ -25,7 +46,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     class: "isotop-item design mockup",
     bgClass: "bg-catkrill",
     imgSrc: "/assets/img/work/app.PNG",
@@ -48,7 +69,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     class: "isotop-item logo mockup",
     bgClass: "bg-catkrill",
     imgSrc: "/assets/img/work/dealerpull.png",
@@ -69,7 +90,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     class: "isotop-item mockup",
     bgClass: "bg-prink",
     imgSrc: "/assets/img/work/inforcelife.png",
@@ -94,7 +115,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     class: "isotop-item mockup",
     bgClass: "bg-prink",
     imgSrc: "/assets/img/work/planning.png",
@@ -119,7 +140,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 6,
+    id: 7,
     class: "isotop-item mockup design",
     bgClass: "bg-catkrill",
     imgSrc: "/assets/img/work/popcorners.png",
@@ -139,7 +160,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 7,
+    id: 8,
     class: "isotop-item mockup design",
     bgClass: "bg-catkrill",
     imgSrc: "/assets/img/work/littergenie.png",
@@ -165,7 +186,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 8,
+    id: 9,
     class: "isotop-item mockup design",
     bgClass: "bg-catkrill",
     imgSrc: "/assets/img/work/poppables.png",
@@ -192,7 +213,7 @@ export const portfolioData = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     class: "isotop-item mockup design",
     bgClass: "bg-catkrill",
     imgSrc: "/assets/img/work/shoe.png",
